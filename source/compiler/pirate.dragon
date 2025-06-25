@@ -1,0 +1,5 @@
+dragon.main()() = {
+    [ print starting message ]
+    dragon.set("Ahoy Buccaneer!%0a;")(message)
+    dragon.print.buffer_as_string(message)()
+}

@@ -1,0 +1,6 @@
+[ entry point ]
+dragon.main()() = {
+    [ build & run compiler ]
+    dragon.set("./source/compiler/pirate.dragon")(user_code)
+    dragon.just_run.one_file(user_code)()
+}
