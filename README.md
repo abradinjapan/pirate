@@ -1,8 +1,8 @@
-# ☠️ 'Tis Be The Pirate Programming Language, ARGH! ☠️
+# ☠️ 'Tis Be Pirate! The Programming Language Tester, ARGH! ☠️
 
 A cursed codebrew forged in the fiery belly of the Dragon, tested by typhoon and madness alike!
 
-Pirate be a pirate-themed language for testin' yer mettle - and your compilers.
+Pirate be a pirate-themed library for testin' yer mettle - and your compilers.
 
 ## What Be this Sorcery?
 
@@ -10,7 +10,7 @@ Pirate 'Twas conjured to flog the DragonForge Language through high seas and low
 
 # Seriously, What The Fleet Is This?
 
-The first programming language written in DragonForge to test DragonForge features.
+A programming language fuzzer written in DragonForge to test DragonForge features.
 
 As well as a fun project.
 
